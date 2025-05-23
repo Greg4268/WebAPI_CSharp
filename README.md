@@ -1,4 +1,4 @@
-# 📦 Project Name
+# 📦 C# Web API Template
 
 > _One-sentence summary of your project._  
 
@@ -11,10 +11,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -54,13 +51,4 @@ cd project-name
 dotnet build
 ```
 
-## 🖼️ Screenshots
-
-
-## 🤝 Contributing
-1. Fork the project 
-2. Create your feature branch (git checkout -b feature/feature-name)
-3. Commit your changes (git commit -m"Add feature")
-4. Push to the branch (git push origin feature/feature-name)
-5. Open a pull request 
 
